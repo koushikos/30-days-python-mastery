@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-30--Day%20Mastery-blue?style=for-the-badge&logo=python)
 ![Beginner to Advanced](https://img.shields.io/badge-Level-Beginner%20to%20Advanced-green?style=for-the-badge&logo=rocket)
 ![Hands-On Projects](https://img.shields.io/badge-Projects-5--Major%20Projects-red?style=for-the-badge&logo=code)
-
+ 
 ---  
 
 ## 📋 Table of Contents
