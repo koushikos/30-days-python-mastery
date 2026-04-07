@@ -23,7 +23,7 @@
 7. [Interview Questions & Answers](#interview-questions--answers)
 8. [Common Mistakes to Avoid](#common-mistakes-to-avoid)
 9. [Python Best Practices](#python-best-practices)
-10. [GitHub Project Ideas](#github-project-ideas)
+10. [GitHub Project Ideas](#github-project-ideas) 
 11. [Practice Datasets & Examples](#practice-datasets--examples)
 12. [Resources & Next Steps](#resources--next-steps)
 
